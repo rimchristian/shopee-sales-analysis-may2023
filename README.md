@@ -1,4 +1,4 @@
-# 📊 Shopee Sales Data EDA (May 2023) – Cross Border eCommerce Insights
+# Shopee Sales Data EDA (May 2023) – Cross Border eCommerce Insights
 
 This project is a quick exploratory data analysis (EDA) of Shopee’s publicly available sales data from **April–May 2023**, focusing specifically on products listed in **May 2023**. The goal is to extract meaningful insights for cross-border operations, category performance, and seller optimization — aligned with Shopee's Cross Border eCommerce team objectives.
 
